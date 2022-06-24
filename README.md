@@ -4,8 +4,9 @@ GitHub: [sv-makh](https://github.com/sv-makh/)
 
 ## projects
 
-[ShEx](###ShEx---Share-experience)
-[Dent-App](###DentApp)
+[ShEx](#shex---share-experience)
+
+[Dent-App](#dentapp)
 
 ### ShEx - Share experience
 
