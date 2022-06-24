@@ -1,8 +1,8 @@
-# portfolio
+# Portfolio
 
 GitHub: [sv-makh](https://github.com/sv-makh/)
 
-## projects
+## Projects
 
 [ShEx](#shex---share-experience)
 
