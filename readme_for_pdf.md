@@ -23,6 +23,7 @@ Repository: [https://github.com/sv-makh/team15](https://github.com/sv-makh/team1
 
 ![Запись на лекцию](shex/Screenshot_20220621_162834.png) ![Профиль пользователя](shex/Screenshot_20220621_162545.png)
 <div style="page-break-after: always;"></div>
+
 ### DentApp
 
 Repository: [https://github.com/sv-makh/dent-app](https://github.com/sv-makh/dent-app)
