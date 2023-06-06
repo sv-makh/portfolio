@@ -1,6 +1,4 @@
-# portfolio
-
-This repository contains my portfolio.
+# my portfolio
 
 In one file:<br>
 [portfolio.md](portfolio.md) / [portfolio.png](portfolio.png) / [portfolio.pdf](portfolio.pdf)
