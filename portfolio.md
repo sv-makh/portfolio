@@ -29,7 +29,7 @@ Repository: [https://github.com/sv-makh/minimal_time_tracker/](https://github.co
 |-|-|
 |![icon](minimal_time_tracker/purple_icon.png)|Приложение выложено в RuStore:<br>[https://apps.rustore.ru/app/com.mtt.minimal_time_tracker](https://apps.rustore.ru/app/com.mtt.minimal_time_tracker)|
 
-Проект является приложением-трекером для ослеживания времени, затраченного на различные активности. Данные хранятся локально - в базе данных Hive, а настройки - в Shared preferences.
+Проект является приложением-трекером для отслеживания времени, затраченного на различные активности. Данные хранятся локально - в базе данных Hive, а настройки - в Shared preferences.
 
 Функциональность:
 - добавление активностей, добавление временных интервалов к ним
